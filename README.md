@@ -8,7 +8,7 @@ My Raven code generation system is in beta. Raven is designed to solve more comp
 Examples, multidimensional optimizers. These are simple CPU optimizers, suitable for low dimensional problems.<br>
 Adam, Swarm.
 
-Here are some cost of production quotes. These doesn't include the cost of writing the Specification. These are just the cost of developing with Raven given the Specification and includes a quick human review of the unit testing code to ensure that it actually tested project. On a realistic basis one would spend more time checking out the product before shipping and there would be the cost of communicating with clients, etc.
+Here are some cost of production quotes. These doesn't include the cost of writing the Specification. These are just the cost of developing with Raven given the Specification and include a quick human review of the unit testing code to ensure that it actually tested the project. On a realistic basis one would spend more time checking out the product before shipping and there would be the cost of communicating with clients, etc.
 
 Adam.<br>
 OpenAI API cost: $0.56<br>
