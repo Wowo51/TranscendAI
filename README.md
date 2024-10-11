@@ -5,6 +5,8 @@ TranscendAI is on the path to AGI.
 
 My Raven code generation system is in beta. Raven is designed to solve more complex problems than can be solved with a single query to an LLM by making many queries to the LLM. I've uploaded some examples of what it can do to this repository.
 
+Raven improves upon other code generation services. Although ChatGPT and others can write code, the developer has to copy and paste the code out of ChatGPT and into their project with many of those services. Raven writes code directly to the drive from the Specification. It can also automatically compile, review, and write unit tests for that code. It can repeat those functions as necessary until the code is stable and all of the unit tests pass. This improves development cost and speed dramatically as code generation LLM's often do not produce properly functioning code on the first attempt. Raven is written in C# and producing C# with Raven is a first priority. Although I have produced web pages with Raven, I am most fluent with C# so I will be focusing on strong support for C# development.
+
 Examples, multidimensional optimizers. These are simple CPU optimizers, suitable for low dimensional problems.<br>
 Adam, Swarm.
 
