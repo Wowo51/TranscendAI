@@ -25,7 +25,7 @@ Raven won't do everything a C# coder needs to do. It will do part of a coder's j
 </br>
 I suspect companies who employ many C# coders might be interested in Raven.</br>
 </br>
-The eight optimizers discussed are in the Optimizers folder.</br>
+The eight optimizers discussed are in the Optimizers folder. There are no dependencies and I've deleted all compiled code to simplify security issues.</br>
 </br>
 Welcome to the singularity.</br>
 </br>
