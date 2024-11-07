@@ -5,11 +5,9 @@ My Raven code generation system is in beta. Raven is designed to solve more comp
 </br>
 Here are some cost comparisons for coding by hand, copying and pasting code from ChatGPT, and with Raven. Raven can accept a specification and will write the code, debug, compile, unit test, and will attempt to keep working on the project until the unit testing can produce a report indicating success. Spec=>unit test report. One click. It can only accomplish fairly small C# projects at this point. I'll be upgrading it to work on larger projects as time goes on.</br>
 </br>
-<PromptForChatGPT></br>
 I got my code generation system to attempt to build the ten optimizers below. I requested multithreaded multivariate optimizers in C#. It successfully wrote 8 of them, complete with unit tests. The system completed all 8 of those to the point where the unit tests produced a report that indicated successful operation. My system failed to write the PSO and the Bayesian. What would it typically cost for a human to do the same job by hand? What about a human copying and pasting from ChatGPT?</br>
 </br>
 Adam, RMSprop, Adagrad, Momentum, Nesterov Accelerated Gradient, Genetic, Simulated Annealing, Simultaneous Perturbation Stochastic Approximation (SPSA), Particle Swarm Optimization (PSO), Bayesian Optimization</br>
-</PromptForChatGPT></br>
 </br>
 ChatGPT's quotes are pretty high so here are the lower end of the spectrum quotes.</br>
 Human hand coded:5.5hrs/optimizer=>44hrs*$50/hr=$2200.</br>
