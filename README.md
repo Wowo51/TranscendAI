@@ -26,7 +26,7 @@ Raven won't do everything a C# coder needs to do. It will do part of a coder's j
 </br>
 I suspect companies who employ many C# coders might be interested in Raven.</br>
 </br>
-Footnote: I upgraded Raven to complete larger projects and it completed the Bayesian and Simulated Annealing optimizers so I've uploaded those too.
+Footnote: I upgraded Raven to complete larger projects and it completed the Bayesian and Simulated Annealing optimizers so I've uploaded those too.</br>
 </br>
 Welcome to the singularity.</br>
 </br>
