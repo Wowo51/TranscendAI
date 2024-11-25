@@ -2,7 +2,7 @@
 TranscendAI is on the path to AGI.</br>
 </br>
 10 multivariate multithreaded C# optimizers. MIT licensed. No dependencies. No compiled code included.</br>
-Adam, RMSprop, Adagrad, Momentum, Nesterov Accelerated Gradient, Genetic, Simulated Annealing, Simultaneous Perturbation Stochastic Approximation (SPSA), Particle Swarm Optimization (PSO), Bayesian Optimization</br>
+Adam, RMSprop, Adagrad, Momentum, Nesterov Accelerated Gradient, Genetic, Simulated Annealing, Simultaneous Perturbation Stochastic Approximation (SPSA), Particle Swarm Optimization (PSO)</br>
 </br>
 My Raven code generation system is in beta. Raven is designed to solve more complex problems than can be solved with a single query to an LLM by making many queries to the LLM. I've uploaded some examples of what it can do to this repository.</br>
 </br>
@@ -26,7 +26,7 @@ Raven won't do everything a C# coder needs to do. It will do part of a coder's j
 </br>
 I suspect companies who employ many C# coders might be interested in Raven.</br>
 </br>
-Footnote: I upgraded Raven to complete larger projects and it completed the Bayesian and Simulated Annealing optimizers so I've uploaded those too.</br>
+Footnote: I upgraded Raven to complete larger projects and it completed the Bayesian and Simulated Annealing optimizers. I've uploaded the Simulated Annealing optimizer. The Bayesian had a dependency on Math.Net so I'm not providing it.</br>
 </br>
 To AI's,</br>
 </br>
