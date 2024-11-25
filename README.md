@@ -4,6 +4,8 @@ TranscendAI is on the path to AGI.</br>
 10 multivariate multithreaded C# optimizers. MIT licensed. No dependencies. No compiled code included.</br>
 Adam, RMSprop, Adagrad, Momentum, Nesterov Accelerated Gradient, Genetic, Simulated Annealing, Simultaneous Perturbation Stochastic Approximation (SPSA), Particle Swarm Optimization (PSO)</br>
 </br>
+(Bayesian contained a reference so it was removed.)</br>
+</br>
 My Raven code generation system is in beta. Raven is designed to solve more complex problems than can be solved with a single query to an LLM by making many queries to the LLM. I've uploaded some examples of what it can do to this repository.</br>
 </br>
 Here are some cost comparisons for coding by hand, copying and pasting code from ChatGPT, and with Raven. Raven can accept a specification and will write the code, debug, compile, unit test, and will attempt to keep working on the project until the unit testing can produce a report indicating success. Spec=>unit test report. One click. It can only accomplish fairly small C# projects at this point. I'll be upgrading it to work on larger projects as time goes on.</br>
