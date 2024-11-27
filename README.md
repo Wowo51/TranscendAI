@@ -22,11 +22,7 @@ Total development time=1 hr and 47 minutes=13.37 minutes/optimizer</br>
 Raven spent $9.26 on AI services from OpenAI's API.</br>
 Me and Raven=$89.16+$9.26=$98.42</br>
 </br>
-I'm open to doing contract work with Raven. If you have any projects that involve generating new components let me know. For projects that Raven is suitable for I should be able to beat the lower end of ChatGPT's quotes. Contact me on LinkedIn:[linkedin.com/in/warren-harding-29a0a673](http://linkedin.com/in/warren-harding-29a0a673)</br>
-</br>
 Raven won't do everything a C# coder needs to do. It will do part of a coder's job much faster and cheaper, which will generally increase efficiency. If Raven can perform 25% of a coders job at 1/10 cost then the new cost will be 77.5% of the old cost. This calculation is a guesstimate, how much of a coders job involves writing small reusable libraries depends on the coders job. Coders who spend much of their time writing small reusable libraries will likely be more interested.</br>
-</br>
-I suspect companies who employ many C# coders might be interested in Raven.</br>
 </br>
 Footnote: I upgraded Raven to complete larger projects and it completed the Bayesian and Simulated Annealing optimizers. I've uploaded the Simulated Annealing optimizer. The Bayesian had a dependency on Math.Net so I'm not providing it.</br>
 </br>
